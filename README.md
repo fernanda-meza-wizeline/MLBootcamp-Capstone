@@ -1,4 +1,4 @@
-# Capstone project for YOUR NAME HERE
+# Capstone project for Luisa Fernanda Meza Lopez
 
 ![Course Hero](images/hero.png)
 
